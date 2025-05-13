@@ -1,0 +1,17 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Components/Button > should take a snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-gtLWhw cMLOzK"
+    state="primary"
+  >
+    <span
+      class="sc-blHHSb hDsbZV"
+      state="primary"
+    >
+      Entrar
+    </span>
+  </button>
+</DocumentFragment>
+`;

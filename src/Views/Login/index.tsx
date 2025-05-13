@@ -1,4 +1,4 @@
-import { FaApple, FaFacebook, FaFacebookF, FaGoogle } from "react-icons/fa";
+import { FaApple, FaGoogle } from "react-icons/fa";
 import { DS_Colors } from "../../DS/colors";
 import { DS_Button, DS_Input } from "../../DS/components";
 import { H1Typography } from "../../DS/typography/h1";

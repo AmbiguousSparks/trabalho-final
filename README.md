@@ -17,8 +17,8 @@ Siga os passos abaixo para instalar e executar o projeto em sua máquina:
 
 ```bash
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/AmbiguousSparks/trabalho-final.git
+cd trabalho-final
 
 ```
 
